@@ -33,19 +33,19 @@ local Window = Rayfield:CreateWindow({
 	local Button = Tab:CreateButton({
 	Name = "Vertex.LUA ",
 	Callback = function()
-		loadstring(game:HttpGet("https://raw.githubusercontent.com/Pylirx/VertexHWID/main/System"))()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/Pylirx/VertexKey/main/SystemByLua"))()
 	end,
 })
 local Button = Tab:CreateButton({
 	Name = "Coming Soon",
 	Callback = function()
-		loadstring(game:HttpGet("https://raw.githubusercontent.com/Pylirx/VertexHWID/main/System"))()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/Pylirx/VertexKey/main/SystemByLua"))()
 	end,
 })	
 local Button = Tab:CreateButton({
 	Name = "Coming Soon",
 	Callback = function()
-		loadstring(game:HttpGet("https://raw.githubusercontent.com/Pylirx/VertexHWID/main/System"))()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/Pylirx/VertexKey/main/SystemByLua"))()
 	end,
 })	
 
